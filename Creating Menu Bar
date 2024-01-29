@@ -1,0 +1,3 @@
+  # Menu Bar
+        self.menu_bar = tk.Menu(root)
+        self.root.config(menu=self.menu_bar)
